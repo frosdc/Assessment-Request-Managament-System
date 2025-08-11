@@ -18,4 +18,7 @@ Inside the encrypted archive, you'll find:
 
 ---
 
+![Preview](dashboard-arms.jpeg)
+
+
 © 2025 frosdc — All Rights Reserved
